@@ -1,0 +1,11 @@
+﻿{
+  "schema": "http://graphql-ruby-demo.herokuapp.com/queries",
+  "result": {
+    "ns": "Sample.StarWars.R",
+    "file": "Result.cs"
+  },
+  "query": {
+    "ns": "Sample.StarWars.Q",
+    "file": "Query.cs"
+  }
+}

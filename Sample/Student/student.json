@@ -1,0 +1,11 @@
+﻿{
+  "schema": "http://localhost:4000/graphql",
+  "result": {
+    "ns": "Sample.Student.R",
+    "file": "Result.cs"
+  },
+  "query": {
+    "ns": "Sample.Student.Q",
+    "file": "Query.cs"
+  }
+}

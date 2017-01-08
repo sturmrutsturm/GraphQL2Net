@@ -1,0 +1,11 @@
+﻿{
+  "schema": "https://www.graphqlhub.com/graphql",
+  "result": {
+    "ns": "Sample.GraphQLHub.R",
+    "file": "Result.cs"
+  },
+  "query": {
+    "ns": "Sample.GraphQLHub.Q",
+    "file": "Query.cs"
+  }
+}
